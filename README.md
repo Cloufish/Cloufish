@@ -43,7 +43,7 @@
 - [DMV:1 - WRITE-UP](https://cloufish.github.io/posts/dmv1-pl/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://cloufish.github.io/blog/)
 
 ---
 

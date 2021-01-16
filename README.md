@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Czy ten blog jest już martwy?](https://cloufish.github.io/posts/is-this-blog-dead-pl/)
+- [DC-4 - WRITE-UP](https://cloufish.github.io/posts/dc4-pl/)
+- [DC-3 - WRITE-UP](https://cloufish.github.io/posts/dc3-pl/)
+- [DC-1 - WRITE-UP](https://cloufish.github.io/posts/dc1-pl/)
+- [DMV:1 - WRITE-UP](https://cloufish.github.io/posts/dmv1-pl/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)

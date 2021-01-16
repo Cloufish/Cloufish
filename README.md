@@ -1,6 +1,7 @@
 ### Hi there, I'm Bartholomew - aka [Cloufish][website] 👋
 
 [![Website](https://img.shields.io/badge/WEBSITE-UP-blue)](https://cloufish.github.io/)
+[![Blog](https://img.shields.io/badge/BLOG-UP-blue)](https://cloufish.github.io/blog)
 
 
 
@@ -17,7 +18,7 @@
 
 [<img align="left" alt="cloufish.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Cloufish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+Discord: Cloufish#2977
 <br />
 
 ### Languages and Tools:
@@ -56,4 +57,4 @@
 
 [website]: https://cloufish.github.io/
 [blog]: https://cloufish.github.io/blog/
-[linkedin]:  www.linkedin.com/in/cloufish
+[linkedin]: https://linkedin.com/in/cloufish

@@ -6,7 +6,7 @@
 
 
 
-## I'm ITSec entusiast and love to automate my daily tasks (and those IT related too ;) )
+## I'm ITSec enthusiast and love to automate my daily tasks (and those IT related too ;) )
 
 - 🔭 I’m currently working on: Setting up DevSecOps lab, Doing TryHackMe rooms and Bug Bounty Hunting
 - 🌱 I’m currently learning: Nim programming language, Ansible, Kubernetes, Code Testing Frameworks like Jest, Jenkins and other CI/CD tools

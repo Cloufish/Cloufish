@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Cloufish's github stats](https://github-readme-stats.vercel.app/api?username=Cloufish)](https://github.com/anuraghazra/github-readme-stats)
+  [![Cloufish's github stats](https://github-readme-stats.vercel.app/api?username=Cloufish&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 

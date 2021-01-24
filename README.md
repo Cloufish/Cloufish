@@ -37,11 +37,11 @@ Discord: Cloufish#2977
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - Basic Pentesting WRITE-UP](https://cloufish.github.io/blog/posts/basic_pentesting/)
 - [Is this blog dead?](https://cloufish.github.io/blog/posts/is-this-blog-dead-en/)
 - [DC-4 - WRITE-UP](https://cloufish.github.io/blog/posts/dc4-en/)
 - [DC-3 - WRITE-UP](https://cloufish.github.io/blog/posts/dc3-en/)
 - [DC-1 - WRITE-UP](https://cloufish.github.io/blog/posts/dc1-en/)
-- [DMV:1 - WRITE-UP](https://cloufish.github.io/blog/posts/dmv1-en/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cloufish.github.io/blog/)

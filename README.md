@@ -6,7 +6,7 @@
 
 
 
-## I'm ITSec enthusiast and love to automate my daily tasks (and those IT related too ;) )
+## I'm ITSec enthusiast and I love to automate my daily tasks (and those IT related too ;) )
 
 - 🔭 I’m currently working on: Doing TryHackMe rooms, Portswigger Academy and Bug Bounty Hunting
 - 🌱 I’m currently learning: Parallelism in Bash, awk, sed, Ansible, Kubernetes, Code Testing Frameworks like Jest, Jenkins and other CI/CD tools

@@ -37,11 +37,11 @@ Discord: Cloufish#2977
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can OWASP ZAP replace Burp Suite Professional?](https://cloufish.github.io/blog/posts/Can-OWASP-ZAP-replace-Burp-Suite-Professional/)
 - [OWASP-ZAP-Fuzzer is it a great alternative for Burp-Suite Intruder?](https://cloufish.github.io/blog/posts/OWASP-ZAP-as-a-great-fuzzing-tool/)
 - [Why should you root your own android device?](https://cloufish.github.io/blog/posts/Should-you-root-your-device/)
 - [Preparing your PHYSICAL Android device for Bug-Bounty Part 1](https://cloufish.github.io/blog/posts/Preparing-your-PHYSICAL-android-device-for-bug-bounty-part-1/)
 - [TryHackMe - Wonderland - WRITE-UP](https://cloufish.github.io/blog/posts/Wonderland/)
-- [TryHackMe - Year Of The Rabbit - WRITE-UP](https://cloufish.github.io/blog/posts/Year_Of_The_Rabbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cloufish.github.io/blog/)

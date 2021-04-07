@@ -9,7 +9,7 @@
 ### I'm ITSec enthusiast and I love to automate my daily tasks (and those IT related too ;) )
 
 - 🔭 I’m currently working on: Bug Bounty Hunting, Using free PluralSight month to accelerate my DevOps knowledge 😤
-- 🌱 I’m currently learning: Parallelism in Bash, awk, sed, Ansible, Kubernetes, Code Testing Frameworks like Jest, Jenkins and other CI/CD tools
+- 🌱 I’m currently learning: Ansible, Kubernetes, Jenkins, Hashicorp Vault, Code Testing Frameworks like Jest, semgrep, SDLC Threat Modelling
 - 👯 I’m looking to collaborate on: Dev**Sec**Ops projects
 - 🤔 I’m looking for help with [Awesome-Worldwide-ITSecurity-Specialists](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists) - If you're non-native english speaker then please help! It'll only take around 20minutes! Thanks a lot! 
 - ⚡ Fun fact: I love playing guitar, singing and also learn Estonian language and Japanese!

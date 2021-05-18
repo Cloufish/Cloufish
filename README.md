@@ -37,11 +37,11 @@ Discord: Cloufish#2977
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security of Docker Containers](https://cloufish.github.io/blog/posts/Security-Of-Docker-Containers/)
 - [Basics of Kubernetes (Hands-On Experience)](https://cloufish.github.io/blog/posts/Kubernetes-Basics-Hands-On/)
 - [Basics of Kubernetes (Without Hands-on Practice)](https://cloufish.github.io/blog/posts/Basics-Of-Kubernetes/)
 - [Concept of Preventing Insufficient Logging & Monitoring](https://cloufish.github.io/blog/posts/Preventing-Insufficient-Logging-and-Monitoring/)
 - [Setting up Hashicorp Vault to manage our Github Token](https://cloufish.github.io/blog/posts/Setting-Up-Hashicorp-Vault-To-Manage-Github-Token/)
-- [Setting up ZAP Scan in CI/CD pipeline](https://cloufish.github.io/blog/posts/Setting-up-zap-scan-in-cicd-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cloufish.github.io/blog/)

@@ -37,11 +37,11 @@ Discord: Cloufish#2977
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Take Better Notes?](https://cloufish.github.io/blog/posts/How-To-Take-Better-Notes/)
 - [Blackarch has it's own official docker image!](https://cloufish.github.io/blog/posts/blackarch-has-its-own-official-image.md/)
 - [Basics of Kubernetes Part 2](https://cloufish.github.io/blog/posts/Kubernetes-Basics-Hands-On-Part-2/)
 - [Security of Docker Containers](https://cloufish.github.io/blog/posts/Security-Of-Docker-Containers/)
 - [Basics of Kubernetes (Hands-On Experience)](https://cloufish.github.io/blog/posts/Kubernetes-Basics-Hands-On/)
-- [Basics of Kubernetes (Without Hands-on Practice)](https://cloufish.github.io/blog/posts/Basics-Of-Kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cloufish.github.io/blog/)

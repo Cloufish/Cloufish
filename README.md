@@ -10,7 +10,7 @@
 - 🦀 Rust Enjoyer
 - 🔧 DevOps and 🛡️DevSecOps Practictioner
 - 🍵 Digital Minimalist
-  - Restricted access to the Internet, while also using self-hosting most crucial Web-Apps to me
+  - Restricted access to the Internet, while also self-hosting most crucial Web-Apps to me
 - 📒 Productivity Freak
 
 ### Connect with me:

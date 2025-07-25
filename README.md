@@ -7,7 +7,6 @@
 
 
 ### I'm IT Enthusiast also wanting to learn Electronics and Embedded Programming
-- 🦀 Rust Enjoyer
 - 🔧 DevOps and 🛡️DevSecOps Practictioner
 - 🍵 Digital Minimalist
   - Restricted access to the Internet, while also self-hosting most crucial Web-Apps to me locally
